@@ -1,6 +1,8 @@
 # Modern-UI-UX-Power-BI-Desktop-Report
 Final Project while completing the course: Build this Modern UX/UI Designed Power BI Desktop Report taught by Gary Carpenter on Udemy.
 
+Certificate URI:https://www.udemy.com/certificate/UC-b0be4505-564b-49c9-93ab-7a39f5a8d8bd/
+
 
 ## Dashboard:
 ![image](https://github.com/hshariq/Modern-UI-UX-Power-BI-Desktop-Report/blob/main/picture/dashbaord.png)
